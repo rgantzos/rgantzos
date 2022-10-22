@@ -1,19 +1,19 @@
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/86856959/197350630-59ae7a93-e023-4e1f-9bfc-9416ba8da45d.png">
+  <h1>👋 Hey there</h1>
+  <h2>I'm <span style="color: #700cf2;">rgantzos</span>, a self-taught developer and filmmaker.</h2>
 </div>
 <h1>About me</h1>
-  <p>I am a Scratcher and a programmer. I taught myself multiple coding languages, including:</p>
+  <p>I started out on Scratch while I was in middle school, but by now I've learned:</p>
   <ul>
   <li>JavaScript</li>
   <li>Python</li>
   <li>HTML & CSS</li>
-  <li>Scratch</li>
   </ul>
 <p>My favorite projects:</p>
   <ul>
-     <li><a href="https://github.com/STForScratch/ScratchTools">Open Source QoL Chrome Extension for Scratch</a></li>
-     <li><a href="https://github.com/rgantzosonscratch/getPlane">A Website that Gathers Info on Any Flying Aircraft</a></li>
-     <li><a href="https://github.com/rgantzosonscratch/thumbnail-downloader">A Thumbnail Downloader for Scratch</a></li>
-     <li><a href="https://github.com/rgantzosonscratch/wasteof.stats">A Stats Website for wasteof.money</a></li>
+     <li><a href="https://github.com/STForScratch/ScratchTools">Browser extension that makes Scratch better</a></li>
+     <li><a href="https://postit.gantzos.com">A social media website with 100+ users</a></li>
+     <li><a href="https://github.com/rgantzos/getPlane">A plane tracking website</a></li>
+     <li><a href="https://github.com/rgantzos/wasteof.stats">A Stats Website for wasteof.money</a></li>
   </ul>
