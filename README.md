@@ -1,7 +1,6 @@
 
 <div align=center>
- 
-
+<img src="https://user-images.githubusercontent.com/86856959/197350630-59ae7a93-e023-4e1f-9bfc-9416ba8da45d.png">
 </div>
 <h1>About me</h1>
   <p>I am a Scratcher and a programmer. I taught myself multiple coding languages, including:</p>
