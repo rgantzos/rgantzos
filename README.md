@@ -13,7 +13,7 @@
 <p>My favorite projects:</p>
   <ul>
      <li><a href="https://github.com/STForScratch/ScratchTools">Browser extension that makes Scratch better</a></li>
-     <li><a href="https://postit.gantzos.com">A social media website with 100+ users</a></li>
+     <li><a href="https://postlit.dev">A social media website with 450+ users</a></li>
      <li><a href="https://github.com/rgantzos/getPlane">A plane tracking website</a></li>
      <li><a href="https://github.com/rgantzos/wasteof.stats">A Stats Website for wasteof.money</a></li>
   </ul>
